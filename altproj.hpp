@@ -1,10 +1,3 @@
-/*
-Matt Olson
-Alex Izydorczyk
-
-Function declarations for Douglas Rachford splitting to to solve sudoku puzzle
-*/
-
 #pragma once
 #include "solver.hpp"
 #include <armadillo>
