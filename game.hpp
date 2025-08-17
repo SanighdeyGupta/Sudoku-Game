@@ -1,9 +1,3 @@
-/*
-Matt Olson
-Alex Izydorczyk
-
-Game-play function declarations
-*/
 #pragma once
 #include <iostream>
 #include <regex>
