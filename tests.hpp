@@ -1,9 +1,3 @@
-/*
-Matt Olson
-Alex Izydorczyk
-
-Function declarations for unit-testing
-*/
 #pragma once
 #include <iostream>
 #include <regex>
